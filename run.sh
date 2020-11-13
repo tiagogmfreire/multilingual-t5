@@ -1,0 +1,1 @@
+python teste.py --module_import="multilingual_t5.tasks"

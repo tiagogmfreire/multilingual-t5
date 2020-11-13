@@ -1,0 +1,11 @@
+.vscode
+.spyproject
+__pycache__/
+.env
+ipuenv/
+venv/
+error.log
+storage/import_queue/*
+storage/imported_data/*
+db_migration.log
+api_users.json
